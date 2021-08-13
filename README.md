@@ -9,15 +9,20 @@ Before opening a business it is important to conduct research on market data. Th
 ![Total_Trips](https://github.com/Luis-Acevedo/Citi_bikesharing/blob/main/Pictures/Total_Trips.png)
 - How many trips were recorded in August? There were just over 2.3 million rides on August with 81% of riders being annual members.
 
-
+![Peak_Times](https://github.com/Luis-Acevedo/Citi_bikesharing/blob/main/Pictures/Peak_Times.png)
 - What are peak riding times? Peak riding times are between between 5pm and 7pm. Between 2am and 5 am is the slowest and perfect for performing maintenance.
 
+![Top_Start_Loc](https://github.com/Luis-Acevedo/Citi_bikesharing/blob/main/Pictures/Top_Start_Loc.png)
+![Top_End_Loc](https://github.com/Luis-Acevedo/Citi_bikesharing/blob/main/Pictures/Top_End_Loc.png)
 - Where are peak pick up and drop off locations? This will help us save time and increase earnings potential by allowing us to know where to place and pick up most bikes. 
 
+![Gender-Breakdown](https://github.com/Luis-Acevedo/Citi_bikesharing/blob/main/Pictures/Gender-Breakdown.png)
 - What type of riders do we have? Looking at our gender breakdown we can see that mostly men ride bikes at almost a 3 to 1 ratio with women. Looking at age we can see that our younger riders tend to have a higher average ride duration. 
 
+![Subscribers](https://github.com/Luis-Acevedo/Citi_bikesharing/blob/main/Pictures/Subscribers.png)
 - Who rides our bikes more subscribers or customers? Checking to see if the business is sustainable is essential and it looks like we have a strong subscriber base which is good for the longevity of the business. 
 
+![Bike_Usage](https://github.com/Luis-Acevedo/Citi_bikesharing/blob/main/Pictures/Bike_Usage.png)
 - Which bikes are used the most frequently? This will help identify which bikes need to be maintenance more frequently to ensure bike fleet stays in working order.
 
 # Bike Sharing Possibilities
